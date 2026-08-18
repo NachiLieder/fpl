@@ -1,3 +1,9 @@
 mip
 pandas
 numpy
+streamlit
+requests
+beautifulsoup4
+lxml
+pyarrow
+playwright
